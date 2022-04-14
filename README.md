@@ -34,6 +34,6 @@ So here are listed some of the technologies / frameworks / stacks / things that 
 <p>
   <img src="https://github.com/twbs/icons/blob/a1ba55ec185cabb893ff5a7de205840a5d0b9711/icons/controller.svg" title="Game Development" width="64" 
   <img src="https://github.com/twbs/icons/blob/main/icons/gear.svg" title="Compilers" width="64" height="64">
-  <img src="https://github.com/twbs/icons/blob/a1ba55ec185cabb893ff5a7de205840a5d0b9711/icons/wifi.svg" title="Network Programming" width="64" height="64">
+  <img src="https://github.com/twbs/icons/blob/a1ba55ec185cabb893ff5a7de205840a5d0b9711/icons/broadcast.svg" title="Network Programming" width="64" height="64">
   <img src="https://github.com/twbs/icons/blob/a1ba55ec185cabb893ff5a7de205840a5d0b9711/icons/search.svg" title="Optimizing / High Performance Code" width="64" height="64">
 </p>
