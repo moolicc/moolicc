@@ -16,9 +16,6 @@ I use my github for both personal endeavours as well as school projects, so if y
 So here are listed some of the technologies / frameworks / stacks / things that you may or may not encounter here.
 
 <p>
-  <script type="text/js">
-    console.log("test");
-  </script>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" width="64" height="64">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C / C++" width="64" height="64">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" width="64" height="64">
