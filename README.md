@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-<img src="moolicc.png" />
+<img src="moolicc.png" width="80%" />
